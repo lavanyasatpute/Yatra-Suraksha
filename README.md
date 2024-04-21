@@ -1,2 +1,2 @@
-# Accident_Data_Analysis_Project
+# Yatra Surksha App
 This is a hackathon problem solution Karnataka government
